@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//2. Sz·mok sorban
+//2. Sz√°mok sorban
 
 int main(){
     printf("Meddig irjam ki a szamokat?\n");
