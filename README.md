@@ -1,1 +1,0 @@
-# BME-VIK-Prog1-labor
