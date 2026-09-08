@@ -2,13 +2,13 @@
 #include <stdlib.h>
 
 /*
-Szakasz méretének bekérése
-'+' jel kiírása
-Ismétlés, amíg az n <= szakasz mérete
-    Leírom a '-' jelet.
-    Növelem az n-t 1-gyel.
-Ismétlés eddig
-'+' jel kiírása
+Szakasz mÃ©retÃ©nek bekÃ©rÃ©se
+'+' jel kiÃ­rÃ¡sa
+IsmÃ©tlÃ©s, amÃ­g az n <= szakasz mÃ©rete
+    LeÃ­rom a '-' jelet.
+    NÃ¶velem az n-t 1-gyel.
+IsmÃ©tlÃ©s eddig
+'+' jel kiÃ­rÃ¡sa
 */
 
 int main(){
