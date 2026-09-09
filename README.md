@@ -1,1 +1,1 @@
-BME-VIK Prog1 gyakorlat és labor feladatok
+BME-VIK Prog1 gyakorlat, labor és példatár feladatok
