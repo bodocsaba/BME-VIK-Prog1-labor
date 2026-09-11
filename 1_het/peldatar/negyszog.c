@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-/*
 int main(){
     printf("Negyszog kerulet/terulet szamito koordinatak alapjan\n\n");
     double x_1,y_1,x_2,y_2,x_3,y_3,x_4,y_4;
@@ -33,4 +32,3 @@ int main(){
     printf("A negyszog terulete: %.1lf\n",T);
     return 0;
 }
-*/
