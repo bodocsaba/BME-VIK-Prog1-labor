@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
 int main(){
     printf("Eldonti egy szamrol, hogy pozitiv,negativ vagy nulla es egesz vagy tort\n\n");
     printf("Add meg a szamot: ");
@@ -26,4 +25,3 @@ int main(){
     }
     return 0;
 }
-*/
