@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
 int main(){
     printf("Fizetesed alapjan eldontom csoro, kozepszeru vagy gazdag vagy-e\n\n");
     printf("Add meg az atlagos fizetesed: ");
@@ -18,4 +17,3 @@ int main(){
     }
     return 0;
 }
-*/
