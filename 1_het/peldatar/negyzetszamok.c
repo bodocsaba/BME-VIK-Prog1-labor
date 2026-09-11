@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 
-/*
 int main(){
     printf("a) Ez a program kiirja az elso N darab negyzetszamot es b) osszes N-nel kisebb negyzetszamot\n\n");
     printf("Mennyi N-ig irja ki a negyzetszamokat?\n\n");
@@ -21,4 +20,3 @@ int main(){
     }
     return 0;
 }
-*/
