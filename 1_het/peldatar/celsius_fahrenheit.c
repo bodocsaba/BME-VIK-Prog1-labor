@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 int main(){
     printf("Mit szeretnel atvaltani? Celsius - 1, Fahrenheit - 2: ");
     int opcio;double celsius;double fahrenheit;
