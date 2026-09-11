@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
 int main(){
     printf("Megmondja mennyibe kerul 1,2,3 es tobb eseten osszesen a ruhak\n\n");
     int darab;
@@ -19,4 +18,3 @@ int main(){
         printf("A ruha osszesen %d Ft lesz.",ar+1350+((darab-3)*400));
     return 0;
 }
-*/
